@@ -94,10 +94,23 @@ li {
 .partners__item {
   margin-bottom: 1rem;
   max-width: 26px;
+  transition: all 0.3s;
+}
+.partners__item:hover {
+  transform: scale(1.2);
 }
 
 .social-media__item {
   margin-bottom: 1rem;
+}
+
+.social-media__item a img {
+  width: 20px;
+  height: 20px;
+  transition: all 0.3s;
+}
+.social-media__item a img:hover {
+  transform: scale(1.2);
 }
 
 .nav-bar__menu {
