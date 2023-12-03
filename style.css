@@ -103,6 +103,7 @@ li {
   max-width: 26px;
   transition: all 0.3s;
 }
+
 .partners__item:hover {
   transform: scale(1.2);
 }
