@@ -47,7 +47,7 @@ li {
   flex-grow: 1;
   flex-shrink: 0;
 }
-.page__left {
+/* .page__left {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
@@ -160,6 +160,10 @@ li {
   margin-bottom: 0.6em;
   transition: 0.3s;
 }
+
+.menu__link {
+  display: block;
+} */
 
 .page__content {
   width: 100%;
